@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Daniel Soden
+- 👀 I’m interested in Python,HTML, CSS and javascript
+- 🌱 I’m currently learning Software development in college
