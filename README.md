@@ -1,3 +1,25 @@
-- 👋 Hi, I’m Daniel Soden
-- 👀 I’m interested in Python,HTML, CSS and javascript
-- 🌱 I’m currently learning Software development in college
+# Daniel Soden - MTU SOftware Development year 2
+
+## Languages
+
+### Experienced In
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- SQL
+
+### Intersted In
+- C
+- Rust
+- Ruby
+- Go
+
+## Other Technologies I use in my workflow:
+- Neovim
+- Obsidian
+- Ghostty
+- Fish
+- Fedora
+- Hyprland
