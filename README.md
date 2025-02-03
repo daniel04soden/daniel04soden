@@ -17,9 +17,9 @@
 - Go
 
 ## Other Technologies I use in my workflow:
-- Neovim
-- Obsidian
-- Ghostty
-- Fish
-- Fedora
-- Hyprland
+- Text editor - Neovim
+- Notes - Obsidian
+- Terminal Emulator Ghostty
+- Shell - Fish
+- OS - Fedora GNU/Linux
+- Environment - Hyprland
