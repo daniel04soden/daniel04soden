@@ -3,15 +3,13 @@
 ## Languages
 
 ### Experienced In
-- HTML
-- CSS
-- JavaScript
+- HTML/CSS/JavaScript
 - Python
 - Java
+- C
 - SQL
 
 ### Intersted In
-- C
 - Rust
 - Ruby
 - Go
@@ -19,7 +17,6 @@
 ## Other Technologies I use in my workflow:
 - Text editor - Neovim
 - Notes - Obsidian
-- Terminal Emulator Ghostty
-- Shell - Fish
-- OS - Fedora GNU/Linux
-- Environment - Hyprland
+- Terminal Emulator Kitty
+- Shell - Zsh
+- OS - MacOS
