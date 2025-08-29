@@ -1,4 +1,4 @@
-# Daniel Soden - MTU SOftware Development year 2
+# Daniel Soden - MTU SOftware Development year 3
 
 ## Languages
 
@@ -10,13 +10,12 @@
 - SQL
 
 ### Intersted In
-- Rust
-- Ruby
 - Go
+- C++
+- Svelte
 
 ## Other Technologies I use in my workflow:
-- Text editor - Neovim
-- Notes - Obsidian
-- Terminal Emulator Kitty
+- Text editor/Notes - Emacs
+- Terminal Emulator - Kitty
 - Shell - Zsh
-- OS - MacOS
+- OS - MacOS/Linux
