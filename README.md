@@ -1,4 +1,4 @@
 # Daniel Soden 
 
-https://git.danielsoden.org
-https://danielsoden.org
+- [git](https://git.danielsoden.org/explore/repos)
+- [portfolio site](https://danielsoden.org)
